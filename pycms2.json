@@ -2,7 +2,7 @@
     "wallpaper": "./pics",
     "dr_count": 93,
     "mode": 1,
-    "spider": "./files/custom_spider.jar",
+    "spider": "http:/kcjsd.ml/files/custom_spider.jar",
    
     
     "sites": [
