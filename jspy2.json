@@ -1,9 +1,141 @@
 {
  "wallpaper": "http://kcjsd.ml/pics",
- "dr_count": 111,
+ "dr_count": 118,
  "mode": 2,
  "spider": "http://kcjsd.ml/files/custom_spider.jar",
-
+ "drives": [
+  {
+   "name": "🦀9T(Adult)",
+   "server": "https://drive.9t.ee",
+   "type": "alist"
+  },
+  {
+   "name": "🐱梓澪の妙妙屋",
+   "server": "https://xn--i0v44m.xyz",
+   "type": "alist"
+  },
+  {
+   "name": "🚆资源小站",
+   "server": "https://pan.142856.xyz",
+   "type": "alist"
+  },
+  {
+   "name": "🌤晴园的宝藏库",
+   "server": "https://alist.52qy.repl.co",
+   "type": "alist"
+  },
+  {
+   "name": "🐭米奇妙妙屋",
+   "server": "https://anime.mqmmw.ga",
+   "type": "alist"
+  },
+  {
+   "name": "🔮嗨翻",
+   "server": "https://pan.hikerfans.com",
+   "type": "alist",
+   "password": "5"
+  },
+  {
+   "name": "💂小兵组网盘影视",
+   "server": "https://6vv.app",
+   "type": "alist"
+  },
+  {
+   "name": "📀小光盘",
+   "server": "https://alist.xiaoguanxiaocheng.life",
+   "type": "alist"
+  },
+  {
+   "name": "🐋一只鱼",
+   "server": "https://alist.youte.ml",
+   "type": "alist"
+  },
+  {
+   "name": "🌊七米蓝",
+   "server": "https://al.chirmyram.com",
+   "type": "alist"
+  },
+  {
+   "name": "🌴非盘",
+   "server": "http://www.feifwp.top",
+   "type": "alist"
+  },
+  {
+   "name": "🥼帅盘",
+   "server": "https://hi.shuaipeng.wang",
+   "type": "alist"
+  },
+  {
+   "name": "🐉神族九帝",
+   "server": "https://alist.shenzjd.com",
+   "type": "alist"
+  },
+  {
+   "name": "☃姬路白雪",
+   "server": "https://pan.jlbx.xyz",
+   "type": "alist"
+  },
+  {
+   "name": "🎧听闻网盘",
+   "server": "https://wangpan.sangxuesheng.com",
+   "type": "alist"
+  },
+  {
+   "name": "💾DISK",
+   "server": "http://124.222.140.243:8080",
+   "type": "alist"
+  },
+  {
+   "name": "🌨云播放",
+   "server": "https://quanzi.laoxianghuijia.cn",
+   "type": "alist"
+  },
+  {
+   "name": "✨星梦",
+   "server": "https://pan.bashroot.top",
+   "type": "alist"
+  },
+  {
+   "name": "🌊小江",
+   "server": "https://dyj.me",
+   "type": "alist"
+  },
+  {
+   "name": "💫触光",
+   "server": "https://pan.ichuguang.com",
+   "type": "alist"
+  },
+  {
+   "name": "🕵好汉吧",
+   "server": "https://8023.haohanba.cn",
+   "type": "alist"
+  },
+  {
+   "name": "🥗AUNEY",
+   "server": "http://121.227.25.116:8008",
+   "type": "alist"
+  },
+  {
+   "name": "🎡资源小站",
+   "server": "https://960303.xyz/",
+   "type": "alist"
+  },
+  {
+   "name": "🏝fenwe",
+   "server": "http://www.fenwe.tk:5244",
+   "type": "alist"
+  },
+  {
+   "name": "🎢轻弹浅唱",
+   "server": "https://g.xiang.lol",
+   "type": "alist"
+  },
+  {
+   "name": "阿里",
+   "password": "43886374072944a2bcc55a0ed129ab48",
+   "type": "alidrive"
+  }
+ ],
  "homepage": "https://gitcode.net/qq_32394351/dr_py",
  "sites": [
   {
@@ -115,6 +247,76 @@
    "quickSearch": 0,
    "filterable": 0,
    "ext": "http://kcjsd.ml/admin/view/蜻蜓FM.js"
+  },
+  {
+   "key": "dr_NY影院",
+   "name": "NY影院(drpy)",
+   "type": 3,
+   "api": "http://kcjsd.ml/libs/drpy.min.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/admin/view/NY影院.js"
+  },
+  {
+   "key": "dr_兰花影院",
+   "name": "兰花影院(drpy)",
+   "type": 3,
+   "api": "http://kcjsd.ml/libs/drpy.min.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/admin/view/兰花影院.js"
+  },
+  {
+   "key": "dr_我爱电影网",
+   "name": "我爱电影网(drpy)",
+   "type": 3,
+   "api": "http://kcjsd.ml/libs/drpy.min.js",
+   "searchable": 2,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/admin/view/我爱电影网.js"
+  },
+  {
+   "key": "dr_爱酷影视",
+   "name": "爱酷影视(drpy)",
+   "type": 3,
+   "api": "http://kcjsd.ml/libs/drpy.min.js",
+   "searchable": 2,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/admin/view/爱酷影视.js"
+  },
+  {
+   "key": "dr_独播库[飞]",
+   "name": "独播库[飞](drpy)",
+   "type": 3,
+   "api": "http://kcjsd.ml/libs/drpy.min.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/admin/view/独播库[飞].js"
+  },
+  {
+   "key": "dr_豆芽影院",
+   "name": "豆芽影院(drpy)",
+   "type": 3,
+   "api": "http://kcjsd.ml/libs/drpy.min.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/admin/view/豆芽影院.js"
+  },
+  {
+   "key": "dr_趣享星趣",
+   "name": "趣享星趣(drpy)",
+   "type": 3,
+   "api": "http://kcjsd.ml/libs/drpy.min.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/admin/view/趣享星趣.js"
   },
   {
    "key": "dr_莫扎兔",
@@ -1125,7 +1327,265 @@
    "quickSearch": 1,
    "filterable": 1
   },
-
+  {
+   "key": "py_ali",
+   "name": "py_ali(Pyramid)",
+   "type": 3,
+   "api": "py_ali",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/txt/py/py_ali.py"
+  },
+  {
+   "key": "py_alist",
+   "name": "py_alist(Pyramid)",
+   "type": 3,
+   "api": "py_alist",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/txt/py/py_alist.py"
+  },
+  {
+   "key": "py_bilibili",
+   "name": "py_bilibili(Pyramid)",
+   "type": 3,
+   "api": "py_bilibili",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/txt/py/py_bilibili.py"
+  },
+  {
+   "key": "py_bilimd",
+   "name": "py_bilimd(Pyramid)",
+   "type": 3,
+   "api": "py_bilimd",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/txt/py/py_bilimd.py"
+  },
+  {
+   "key": "py_bilivd",
+   "name": "py_bilivd(Pyramid)",
+   "type": 3,
+   "api": "py_bilivd",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/txt/py/py_bilivd.py"
+  },
+  {
+   "key": "py_cctv",
+   "name": "py_cctv(Pyramid)",
+   "type": 3,
+   "api": "py_cctv",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/txt/py/py_cctv.py"
+  },
+  {
+   "key": "py_cokemv",
+   "name": "py_cokemv(Pyramid)",
+   "type": 3,
+   "api": "py_cokemv",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/txt/py/py_cokemv.py"
+  },
+  {
+   "key": "py_czspp",
+   "name": "py_czspp(Pyramid)",
+   "type": 3,
+   "api": "py_czspp",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/txt/py/py_czspp.py"
+  },
+  {
+   "key": "py_douyu",
+   "name": "py_douyu(Pyramid)",
+   "type": 3,
+   "api": "py_douyu",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/txt/py/py_douyu.py"
+  },
+  {
+   "key": "py_genmov",
+   "name": "py_genmov(Pyramid)",
+   "type": 3,
+   "api": "py_genmov",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/txt/py/py_genmov.py"
+  },
+  {
+   "key": "py_gimytv",
+   "name": "py_gimytv(Pyramid)",
+   "type": 3,
+   "api": "py_gimytv",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/txt/py/py_gimytv.py"
+  },
+  {
+   "key": "py_gitcafe",
+   "name": "py_gitcafe(Pyramid)",
+   "type": 3,
+   "api": "py_gitcafe",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/txt/py/py_gitcafe.py"
+  },
+  {
+   "key": "py_huya",
+   "name": "py_huya(Pyramid)",
+   "type": 3,
+   "api": "py_huya",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/txt/py/py_huya.py"
+  },
+  {
+   "key": "py_jrskbs",
+   "name": "py_jrskbs(Pyramid)",
+   "type": 3,
+   "api": "py_jrskbs",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/txt/py/py_jrskbs.py"
+  },
+  {
+   "key": "py_kuaikan",
+   "name": "py_kuaikan(Pyramid)",
+   "type": 3,
+   "api": "py_kuaikan",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/txt/py/py_kuaikan.py"
+  },
+  {
+   "key": "py_kunyu77",
+   "name": "py_kunyu77(Pyramid)",
+   "type": 3,
+   "api": "py_kunyu77",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/txt/py/py_kunyu77.py"
+  },
+  {
+   "key": "py_pansou",
+   "name": "py_pansou(Pyramid)",
+   "type": 3,
+   "api": "py_pansou",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/txt/py/py_pansou.py"
+  },
+  {
+   "key": "py_voflix",
+   "name": "py_voflix(Pyramid)",
+   "type": 3,
+   "api": "py_voflix",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/txt/py/py_voflix.py"
+  },
+  {
+   "key": "py_xmaomi",
+   "name": "py_xmaomi(Pyramid)",
+   "type": 3,
+   "api": "py_xmaomi",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/txt/py/py_xmaomi.py"
+  },
+  {
+   "key": "py_yiso",
+   "name": "py_yiso(Pyramid)",
+   "type": 3,
+   "api": "py_yiso",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/txt/py/py_yiso.py"
+  },
+  {
+   "key": "py_yunso",
+   "name": "py_yunso(Pyramid)",
+   "type": 3,
+   "api": "py_yunso",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/txt/py/py_yunso.py"
+  },
+  {
+   "key": "py_zhaozy",
+   "name": "py_zhaozy(Pyramid)",
+   "type": 3,
+   "api": "py_zhaozy",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/txt/py/py_zhaozy.py"
+  },
+  {
+   "key": "py_zxzj",
+   "name": "py_zxzj(Pyramid)",
+   "type": 3,
+   "api": "py_zxzj",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "http://kcjsd.ml/txt/py/py_zxzj.py"
+  },
+  {
+   "key": "t4",
+   "name": "T4",
+   "type": 4,
+   "api": "https://t4.secan.icu/vod?sites=all&ali_token=59744816075f4729bc00cd23b98e3447&timeout=8",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "js_origin_puto",
+   "name": "原始JS(pluto)",
+   "type": 3,
+   "api": "js_origin_test",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "http://kcjsd.ml/txt/js/原始JS/origin.js"
+  },
+  {
+   "key": "js_origin_tvb",
+   "name": "原始JS(俊tvb)",
+   "type": 3,
+   "api": "http://kcjsd.ml/txt/js/origin/原始JS.js",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "{}"
+  },
   {
    "key": "drpy_zbk",
    "name": "真不卡(drpy)",
@@ -1397,38 +1857,7 @@
    "quickSearch": 0,
    "filterable": 0
   },
-  {
-   "key": "push_agent",
-   "name": "推送（爱优腾/阿里云盘/磁力链接）",
-   "type": 3,
-   "api": "csp_PushAgent",
-   "searchable": 0,
-   "quickSearch": 0,
-   "filterable": 0,
-   "ext": "59744816075f4729bc00cd23b98e3447",
-   "plugin": "http://kcjsd.ml/txt/jar/0906.jar"
-  },
-  {
-   "key": "csp_GitCafe",
-   "name": "小纸条",
-   "type": 3,
-   "api": "csp_Gitcafe",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "ext": "59744816075f4729bc00cd23b98e3447"
-  },
-  {
-   "key": "阿里盤搜",
-   "name": "阿里盤搜",
-   "type": 3,
-   "api": "csp_AliPanSou",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "59744816075f4729bc00cd23b98e3447",
-   "plugin": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
-  },
+  
   {
    "key": "csp_appysv2_渔渔影视",
    "name": "渔渔影视(萝卜)",
